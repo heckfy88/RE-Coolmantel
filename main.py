@@ -4,7 +4,7 @@ from input_values import sectionCoordinate_mm, sectionRadius_mm, sectionCurveLen
 
 
 @dataclass
-class RefrigerantSubstancePropertiesClass:
+class RefrigerantPropertiesClass:
     """
     Класс свойств охладителя
     """
